@@ -97,6 +97,7 @@ jobs:
         # Comment out the below 'repository' line if you want to build from
         # your fork instead of the author's.
         # repository: immense/Remotely
+        repository: nemsisjones1/otremotely
         submodules: recursive
         fetch-depth: 0
         
